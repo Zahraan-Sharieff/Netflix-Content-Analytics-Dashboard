@@ -28,17 +28,17 @@ A Netflix-inspired analytics dashboard built using Python, Pandas, and Plotly to
 
 ## KPI Dashboard
 
-![KPI Dashboard](netflix dash.png)
+![KPI Dashboard](netflix-dash.png)
 ---
 
 ## Top Countries Producing Netflix Content
 
-![Top Countries](netflix countries.png)
+![Top Countries](netflix-countries.png)
 ---
 
 ## Netflix Content Growth Over Years
 
-![Growth Trend](netflix growth.png)
+![Growth Trend](netflix-growth.png)
 ---
 
 
